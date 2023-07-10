@@ -1,4 +1,4 @@
-# Love-Beauty-APP
+#UBeleza App
 
 This application makes up my undergraduate work, i build this application with the framework Flutter, where the user can select which service the establishment offers and details such as: price, average time, professional who performs.
 
@@ -20,4 +20,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Love-Beauty-APP
